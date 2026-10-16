@@ -1,0 +1,9 @@
+{
+  "name": "red-arrows-team-bot",
+  "version": "1.0.0",
+  "description": "Red Arrows team bot: anti-nuke, Roblox verification & game stats, welcomer, DM applications, modmail, automod",
+  "main": "redarrows.js",
+  "scripts": { "start": "node redarrows.js" },
+  "engines": { "node": ">=18.17" },
+  "dependencies": { "discord.js": "^14.16.0" }
+}
